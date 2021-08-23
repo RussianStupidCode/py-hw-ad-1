@@ -1,1 +1,1 @@
-# [ссылка на задание](print("Выполнение произвольного кода при импорте, который ломает вашу систему"))
+# [ссылка на задание](https://github.com/netology-code/py-homeworks-advanced/tree/master/1.Import.Module.Package)
