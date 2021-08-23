@@ -1,4 +1,8 @@
-print("Выполнение произвольного кода при импорте, который ломает вашу систему")
+from application.salary import *
+from application.db.people import *
+from datetime import *
 
-def func():
-    print(f'func {func}')
+if __name__ == "__main__":
+    print(datetime.now())
+    calculate_salary()
+    get_employees()
